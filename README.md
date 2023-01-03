@@ -1,5 +1,5 @@
 # Why waste your time swiping and reading profiles on Tinder when you can just auto-swipe and talk to the ones that swiped on you, introducing THE
-# Tinder-Auto-Swipe
+# Tinder-Auto-Swipe 😎
 Greasemonkey script( Auto swiper for tinder )
 
 You'll need the greasemonkey add on for firefox or tamper monkey for chrome
