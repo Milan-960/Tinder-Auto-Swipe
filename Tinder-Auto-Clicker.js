@@ -8,20 +8,16 @@
 // @grant       none
 // ==/UserScript==
 
-
 alert("auto clicker is on");
 var i = 0;
 
+setInterval(function a() {
+  i = 0;
 
-  setInterval( function a(){
-    i = 0;
-    
-    $(".button").each( function a(){ 
-      if( i == 3 ){
-        $(this).click();
-      }
-      i++;
-    });	
-  }, 100)
-  
-  
+  $(".button").each(function a() {
+    if (i == 3) {
+      $(this).click();
+    }
+    i++;
+  });
+}, 1000);
